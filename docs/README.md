@@ -1,0 +1,3 @@
+# GadgetZone Documentation
+
+This is the complete documentation for the GadgetZone e-commerce project...
